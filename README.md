@@ -3,12 +3,12 @@
 
 <h1 align="center">firstSem-Online Class Videos Links</h1>
 
-- Maths [click Here!](https://mega.nz/folder/y84y1awY#YAMqj3yDyMhQVAXM9qvSGg)
+- Maths [click Here!](https://bit.ly/maths-onlineclass-kist)
 ```
-https://mega.nz/folder/y84y1awY#YAMqj3yDyMhQVAXM9qvSGg
+https://bit.ly/maths-onlineclass-kist
 ```
-- C-Programming [click Here!](https://mega.nz/folder/71AyRJDZ#VGkhwFZ504yYIdMgSoch_w)
+- C-Programming [click Here!](https://bit.ly/c-onlineclass-kist)
 ```
-https://mega.nz/folder/71AyRJDZ#VGkhwFZ504yYIdMgSoch_w
+https://bit.ly/c-onlineclass-kist
 ```
 
